@@ -151,8 +151,8 @@ This lab is for learning only. I will only test systems that I own or have clear
 
 ## 👤 Author
 
-**Shayma Ashraf**
-Networkwalks Cybersecurity, Batch B084
+**Shayma Ashraf, **
+Networkwalks Cybersecurity, Batch B084,
 LinkedIn: www.linkedin.com/in/shayma-ashraf-4b1135233
 
 **Program:** Cybersecurity at Networkwalks | **Week:** 1 | **Project:** Cybersecurity Lab Setup (WK1-PM1)
